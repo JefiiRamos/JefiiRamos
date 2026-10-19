@@ -1,74 +1,68 @@
+<div align="center">
+
 # Jeferson Ramos
 
-Frontend Developer focused on building modern, scalable web applications using React and Next.js.
+### Frontend Developer · React & Next.js
 
----
+Building interfaces with purpose. Turning ideas into web experiences.
 
-## About Me
+[![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeferson-ramos-19a3b6300/)
+[![Email](https://img.shields.io/badge/SAY_HELLO-18181B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jefiiramoos@gmail.com)
 
-- Software Engineering student at Universidade Positivo  
-- Background in Systems Development (Technical High School)  
-- Experience with fullstack fundamentals (frontend + backend + database)  
-- Currently looking for a Frontend Developer or Internship position  
+<sub>Open to Frontend Developer and Internship opportunities.</sub>
 
----
-
-## Tech Stack
-
-![Tech Stack](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,git,github,figma)
-
----
-
-## Experience
-
-**Web Developer (Freelance / Collaboration)**  
-Solid Tech — Oct 2025 · Feb 2026  
-
-- Developed web applications using JavaScript and modern libraries  
-- Built responsive and user-focused interfaces  
-- Integrated backend with MySQL using Prisma ORM  
-- Designed and structured APIs for data handling  
-- Contributed to digital projects focused on online presence and marketing  
-
-**Administrative Assistant**  
-Copaves — Jun 2024 · Jun 2025  
-
-- Customer support and administrative routines  
-- Document organization and financial process support  
-
----
-
-## Projects
-
-### Triply — Travel Search Platform  
-Modern web application for searching flights and hotels  
-
-- Built with React, Next.js and TailwindCSS  
-- Focus on UI/UX and performance  
-
-🔗 Live: https://triplyfly.vercel.app/  
-🔗 Repo: https://github.com/JefiiRamos/Triply  
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JefiiRamos&show_icons=true&theme=dark&hide_border=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefiiRamos&layout=compact&theme=dark&hide_border=true"/>
 </div>
 
 ---
 
-## Contact
+### A little about me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jeferson-ramos-19a3b6300/)
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](mailto:jefiiramoos@gmail.com)
+I'm a Software Engineering student at **Universidade Positivo**, with a technical background in **Systems Development** and hands-on experience building web applications.
+
+My focus is frontend: responsive layouts, thoughtful interactions, and maintainable code. Working with APIs, databases, and backend fundamentals helps me understand the whole journey behind an interface.
+
+- **Building with:** React, Next.js, JavaScript, and TypeScript.
+- **Improving:** component architecture, performance, and user experience.
+- **Looking for:** a team where I can contribute, learn, and grow as a developer.
+
+### My toolkit
+
+<div align="center">
+
+[![JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind CSS, Node.js, Prisma, MySQL, Git, GitHub, and Figma](https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,prisma,mysql,git,github,figma&perline=7)](https://skillicons.dev)
+
+</div>
+
+### Where I've contributed
+
+**Web Developer · Solid Tech**  
+Freelance / Collaboration · October 2025 — February 2026
+
+- Built responsive web interfaces using JavaScript and modern libraries.
+- Connected backend services to MySQL through Prisma ORM.
+- Designed and structured APIs for application data.
+- Contributed to projects focused on digital presence and marketing.
+
+**Administrative Assistant · Copaves**  
+June 2024 — June 2025
+
+- Supported customers and day-to-day administrative operations.
+- Organized documents and assisted with financial processes.
 
 ---
 
-## Goals
+### After the code, a little arcade
 
-- Improve frontend architecture and performance  
-- Deepen knowledge in React ecosystem and Next.js  
-- Contribute to real-world projects and scalable systems  
+Every contribution becomes part of the map. The snake takes it from here.
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JefiiRamos/JefiiRamos/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JefiiRamos/JefiiRamos/output/github-snake.svg" />
+  <img alt="Animated snake moving through Jeferson Ramos's GitHub contribution calendar" src="https://raw.githubusercontent.com/JefiiRamos/JefiiRamos/output/github-snake.svg" width="100%" />
+</picture>
+
+<sub>Built one commit at a time.</sub>
+
+</div>
